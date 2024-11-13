@@ -1,3 +1,9 @@
+🚨🚨🚨 WARNING 🚨🚨🚨
+
+DO NOT LINK YOUR FLUTTER PROJECT DIRECTLY TO THIS REPOSITORY
+
+IT WILL GO DOWN AS SOON AS THE ORIGINAL REPO IMPLEMENTS THESE CHANGES
+
 # plugin_wifi_connect
 
 This package is a continuation of the package below:
